@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\martinlabs\martinlabs.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/martinlabs/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/martinlabs/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\martinlabs\src\main.js"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\css-select\lib\compile.js">
+			<todo name="TODO better check if context is document" pos="5;53"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\css-select\lib\pseudos.js">
+			<todo name="TODO determine the actual root element" pos="5;140"/>
+			<todo name="TODO: :any-link once the name is finalized (as an alias of :link)" pos="2;247"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\css-select\lib\sort.js">
+			<todo name="TODO better handling of complex selectors" pos="5;63"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\css-select\node_modules\domutils\node_modules\dom-serializer\node_modules\entities\lib\decode.js">
+			<todo name="TODO consider creating a merged map" pos="2;45"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\css-select\node_modules\domutils\node_modules\dom-serializer\node_modules\entities\lib\encode.js">
+			<todo name="TODO add ranges" pos="2;29"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\htmlparser2\lib\FeedHandler.js">
+			<todo name="TODO: make this a streamable handler" pos="1;4"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\htmlparser2\lib\Tokenizer.js">
+			<todo name="TODO make events conditional" pos="1;620"/>
+			<todo name="TODO implement the new event" pos="34;871"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\htmlparser2\node_modules\domutils\index.js">
+			<todo name="TODO when is this required?" pos="12;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;144"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\html-webpack-plugin\node_modules\pretty-error\node_modules\renderkid\node_modules\htmlparser2\node_modules\readable-stream\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\locale\fr.js">
+			<todo name="TODO: Return 'e' when day of month &gt; 1. Move this case inside" pos="13;54"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\min\locales.js">
+			<todo name="TODO: Return 'e' when day of month &gt; 1. Move this case inside" pos="13;3154"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\min\moment-with-locales.js">
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;352"/>
+			<todo name="TODO: add sorting" pos="5;920"/>
+			<todo name="TODO: Another silent failure?" pos="13;960"/>
+			<todo name="TODO: Find a better way to register and load all the locales in Node" pos="5;1818"/>
+			<todo name="TODO: Replace the vanilla JS Date object with an indepentent day-of-week check." pos="9;2108"/>
+			<todo name="TODO: We need to take the current isoWeekYear, but that depends on" pos="9;2278"/>
+			<todo name="TODO: Move this to another part of the creation flow to prevent circular deps" pos="5;2335"/>
+			<todo name="TODO: Use [].sort instead?" pos="1;2630"/>
+			<todo name="TODO: remove 'name' arg after deprecation is removed" pos="1;3061"/>
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;3615"/>
+			<todo name="TODO: Use this.as('ms')?" pos="1;4173"/>
+			<todo name="TODO: Return 'e' when day of month &gt; 1. Move this case inside" pos="13;7602"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\moment.js">
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;358"/>
+			<todo name="TODO: add sorting" pos="5;926"/>
+			<todo name="TODO: Another silent failure?" pos="13;966"/>
+			<todo name="TODO: Find a better way to register and load all the locales in Node" pos="5;1824"/>
+			<todo name="TODO: Replace the vanilla JS Date object with an indepentent day-of-week check." pos="9;2114"/>
+			<todo name="TODO: We need to take the current isoWeekYear, but that depends on" pos="9;2284"/>
+			<todo name="TODO: Move this to another part of the creation flow to prevent circular deps" pos="5;2341"/>
+			<todo name="TODO: Use [].sort instead?" pos="1;2636"/>
+			<todo name="TODO: remove 'name' arg after deprecation is removed" pos="1;3067"/>
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;3621"/>
+			<todo name="TODO: Use this.as('ms')?" pos="1;4179"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\create\from-array.js">
+			<todo name="TODO: We need to take the current isoWeekYear, but that depends on" pos="9;92"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\create\from-string-and-format.js">
+			<todo name="TODO: Move this to another part of the creation flow to prevent circular deps" pos="5;18"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\create\from-string.js">
+			<todo name="TODO: Replace the vanilla JS Date object with an indepentent day-of-week check." pos="9;127"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\duration\as.js">
+			<todo name="TODO: Use this.as('ms')?" pos="1;34"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\locale\locales.js">
+			<todo name="TODO: Find a better way to register and load all the locales in Node" pos="5;49"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\locale\set.js">
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;18"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\moment\add-subtract.js">
+			<todo name="TODO: remove 'name' arg after deprecation is removed" pos="1;8"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\moment\min-max.js">
+			<todo name="TODO: Use [].sort instead?" pos="1;51"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\units\day-of-month.js">
+			<todo name="TODO: Remove &quot;ordinalParse&quot; fallback in next major release." pos="5;25"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\lib\units\month.js">
+			<todo name="TODO: add sorting" pos="5;144"/>
+			<todo name="TODO: Another silent failure?" pos="13;184"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\moment\src\locale\fr.js">
+			<todo name="TODO: Return 'e' when day of month &gt; 1. Move this case inside" pos="13;48"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\coa\node_modules\q\q.js">
+			<todo name="TODO: &quot;===&quot; should be Object.is or equiv" pos="13;744"/>
+			<todo name="TODO attempt to recycle the rejection with &quot;this&quot;." pos="9;1782"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\compressor\clean\Ruleset.js">
+			<todo name="TODO: remove toLowerCase when type selectors will be normalized" pos="25;15"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\compressor\compress\Url.js">
+			<todo name="TODO: make better quote type selection" pos="9;29"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\compressor\compress\color.js">
+			<todo name="TODO: remove those tokens" pos="9;289"/>
+			<todo name="TODO: remove those tokens" pos="13;296"/>
+			<todo name="TODO: remove those tokens" pos="13;306"/>
+			<todo name="TODO: remove those tokens" pos="13;314"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\compressor\restructure\1-initialMergeRuleset.js">
+			<todo name="TODO: remove initial merge" pos="1;40"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\compressor\restructure\8-restructRuleset.js">
+			<todo name="TODO: disallow up merge only if any property interception only (i.e. diff.ne2overrided.length &gt; 0);" pos="13;135"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\lib\parser\index.js">
+			<todo name="TODO: remove it as wrong thing" pos="1;189"/>
+			<todo name="TODO: not sure it should be here" pos="40;1071"/>
+			<todo name="TODO: special type Variable?" pos="38;1178"/>
+			<todo name="TODO?" pos="27;1430"/>
+			<todo name="TODO: remove '=' since it's wrong operator, but theat as operator" pos="1;1593"/>
+			<todo name="TODO" pos="29;1607"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\csso\node_modules\clap\index.js">
+			<todo name="TODO: suggestions for options" pos="9;285"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\js-yaml\dist\js-yaml.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;1541"/>
+			<todo name="TODO: Add tag format check." pos="3;2895"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\js-yaml\lib\js-yaml\loader.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;590"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\node_modules\js-yaml\lib\js-yaml\type.js">
+			<todo name="TODO: Add tag format check." pos="3;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\plugins\_collections.js">
+			<todo name="TODO: in - 'If no value is provided and this is the first filter primitive," pos="13;513"/>
+			<todo name="TODO: divisor - 'The default value is the sum of all values in kernelMatrix," pos="13;607"/>
+			<todo name="TODO: targetX - 'By default, the convolution matrix is centered in X over each" pos="13;611"/>
+			<todo name="TODO: kernelUnitLength - 'The first number is the &lt;dx&gt; value. The second number" pos="13;616"/>
+			<todo name="TODO: 'exactly one light source element, in any order'" pos="13;654"/>
+			<todo name="TODO: exactly one 'light source element'" pos="13;912"/>
+			<todo name="TODO: &quot;at most one 'font-face-src' element&quot;" pos="13;1106"/>
+			<todo name="TODO: empty content" pos="5;1110"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\plugins\convertPathData.js">
+			<todo name="TODO: get rid of functions returns" pos="9;70"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\optimize-css-assets-webpack-plugin\node_modules\cssnano\node_modules\postcss-svgo\node_modules\svgo\plugins\convertShapeToPath.js">
+			<todo name="TODO: Calculate sizes from % and non-px units if possible." pos="13;41"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\postcss-loader\node_modules\loader-utils\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\postcss-loader\node_modules\loader-utils\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\postcss-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\dist\js-yaml.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;1552"/>
+			<todo name="TODO: Add tag format check." pos="3;2914"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\postcss-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\lib\js-yaml\loader.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;593"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\postcss-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\lib\js-yaml\type.js">
+			<todo name="TODO: Add tag format check." pos="3;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\clean-css\lib\optimizer\level-2\reorderable.js">
+			<todo name="TODO: it'd be great to merge it with the other canReorder functionality" pos="1;0"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\glob\common.js">
+			<todo name="TODO: is an absolute `cwd` supposed to be resolved against `root`?" pos="3;105"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\glob\node_modules\minimatch\minimatch.js">
+			<todo name="TODO: It would probably be faster to determine this" pos="11;461"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\rework\node_modules\css\node_modules\source-map\test\source-map\test-util.js">
+			<todo name="TODO Issue #128: Define and test this function properly." pos="3;201"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\lib\argsert.js">
+			<todo name="TODO: should this eventually raise an exception." pos="3;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\lib\command.js">
+			<todo name="TODO move positional arg logic to yargs-parser and remove this duplication" pos="3;289"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\lib\usage.js">
+			<todo name="TODO hacking around i18n here" pos="77;176"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\lib\validation.js">
+			<todo name="TODO case-insensitive configurability" pos="11;173"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\node_modules\os-locale\node_modules\execa\index.js">
+			<todo name="TODO: missing some timeout logic for killed" pos="4;234"/>
+			<todo name="TODO: set `stderr: 'ignore'` when that option is implemented" pos="2;276"/>
+			<todo name="TODO: set `stdout: 'ignore'` when that option is implemented" pos="2;281"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\node_modules\os-locale\node_modules\mem\node_modules\mimic-fn\index.js">
+			<todo name="TODO: use `Reflect.ownKeys()` when targeting Node.js 6" pos="2;2"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\purify-css\node_modules\yargs\yargs.js">
+			<todo name="TODO: actually deprecate self.defaults." pos="3;248"/>
+			<todo name="TODO: deprecate self.demand in favor of" pos="3;345"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\shelljs\node_modules\glob\common.js">
+			<todo name="TODO: is an absolute `cwd` supposed to be resolved against `root`?" pos="3;105"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\shelljs\node_modules\glob\node_modules\minimatch\minimatch.js">
+			<todo name="TODO: It would probably be faster to determine this" pos="11;461"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\shelljs\src\chmod.js">
+			<todo name="TODO: replace this with a call to common.expand()" pos="3;83"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\shelljs\src\mv.js">
+			<todo name="TODO(nate): figure out if we actually need this line" pos="5;48"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\shelljs\src\rm.js">
+			<todo name="TODO: replace this with a finite loop" pos="5;57"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\html-tokenize\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;144"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\html-tokenize\node_modules\readable-stream\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\stream-combiner2\node_modules\duplexer2\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;161"/>
+			<todo name="TODO(isaacs) clean this up" pos="5;364"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\stream-combiner2\node_modules\duplexer2\node_modules\readable-stream\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\stream-combiner2\node_modules\through2\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;144"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\stream-combiner2\node_modules\through2\node_modules\readable-stream\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\through2\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;144"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\strip-html\node_modules\through2\node_modules\readable-stream\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus-loader\node_modules\loader-utils\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus-loader\node_modules\loader-utils\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus-loader\node_modules\when\es6-shim\Promise.js">
+			<todo name="TODO: Better names: &quot;annotate&quot;?" pos="3;1003"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus-loader\node_modules\when\lib\makePromise.js">
+			<todo name="TODO: Better names: &quot;annotate&quot;?" pos="3;666"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus-loader\node_modules\when\node.js">
+			<todo name="TODO: Simplify once partialing has been removed" pos="4;142"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus\lib\functions\blend.js">
+			<todo name="TODO: different blend modes like overlay etc." pos="3;24"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus\lib\parser.js">
+			<todo name="TODO: TernaryOp :)" pos="5;2053"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus\lib\visitor\evaluator.js">
+			<todo name="TODO: remove, use stack" pos="22;136"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus\node_modules\glob\node_modules\minimatch\minimatch.js">
+			<todo name="TODO: It would probably be faster to determine this" pos="11;461"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\stylus\node_modules\source-map\test\source-map\test-util.js">
+			<todo name="TODO Issue #128: Define and test this function properly." pos="3;201"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\url-loader\node_modules\loader-utils\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\url-loader\node_modules\loader-utils\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\url-loader\node_modules\mime\build\test.js">
+			<todo name="TODO: Uncomment once #157 is resolved" pos="1;45"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\js-beautify\js\lib\beautify.js">
+			<todo name="TODO: Consider whether forcing this is required.  Review failing tests when removed." pos="21;769"/>
+			<todo name="TODO: Should this be for STATEMENT as well?" pos="21;1116"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\js-beautify\js\lib\cli.js">
+			<todo name="TODO: expand-strict is obsolete, now identical to expand.  Remove in future version" pos="9;47"/>
+			<todo name="TODO: collapse-preserve-inline is obselete, now identical to collapse,preserve-inline = true. Remove in future version" pos="9;48"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\js-beautify\js\test\generated\beautify-css-tests.js">
+			<todo name="TODO: don't break nested pseduo-classes" pos="9;1374"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\js-beautify\node_modules\config-chain\index.js">
+			<todo name="TODO: maybe save() to a url target could be a PUT or something?" pos="5;153"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\loader-utils\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\loader-utils\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\dist\js-yaml.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;1552"/>
+			<todo name="TODO: Add tag format check." pos="3;2914"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\lib\js-yaml\loader.js">
+			<todo name="TODO: rework to inline fn with no type cast?" pos="9;593"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\postcss-load-config\node_modules\cosmiconfig\node_modules\js-yaml\lib\js-yaml\type.js">
+			<todo name="TODO: Add tag format check." pos="3;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-loader\node_modules\vue-template-es2015-compiler\buble.js">
+			<todo name="TODO is this block necessary?..." pos="4;4043"/>
+			<todo name="TODO last chunk in the array may not be the last chunk, if it's moved..." pos="4;4662"/>
+			<todo name="TODO deprecate this? not really very useful" pos="2;4743"/>
+			<todo name="TODO there's a bunch of this sort of thing, needs cleaning up" pos="43;4898"/>
+			<todo name="TODO this is a very slow way to determine this" pos="4;5024"/>
+			<todo name="TODO faster way to determine non-empty source?" pos="50;5082"/>
+			<todo name="TODO faster way to determine non-empty source?" pos="49;5106"/>
+			<todo name="TODO if this is the only use of argsArray, don't bother concating" pos="100;5339"/>
+			<todo name="TODO this code is pretty wild, tidy it up" pos="1;5929"/>
+			<todo name="TODO this function is slightly flawed – it works on the original string," pos="1;6121"/>
+			<todo name="TODO is this right?" pos="3;6928"/>
+			<todo name="TODO prefer single quotes?" pos="2;7194"/>
+			<todo name="TODO: Optimize this by writing and using `dataIntersectionData()`." pos="4;8508"/>
+			<todo name="TODO: Test if memoizing `pattern` here is worth the effort." pos="2;10424"/>
+			<todo name="TODO is this right?" pos="57;10732"/>
+			<todo name="TODO is this right?" pos="61;10735"/>
+			<todo name="TODO is this right?" pos="61;10738"/>
+			<todo name="TODO other cases where it's safe" pos="53;11116"/>
+			<todo name="TODO warn about double var declarations?" pos="5;11494"/>
+			<todo name="TODO understand why this is necessary... seems bad" pos="29;11524"/>
+			<todo name="TODO https://gitlab.com/Rich-Harris/buble/issues/8" pos="52;11798"/>
+			<todo name="TODO implement proper continue..." pos="23;11838"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-style-loader\node_modules\loader-utils\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue-style-loader\node_modules\loader-utils\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\vue\src\platforms\weex\runtime\components\transition-group.js">
+			<todo name="TODO: record before patch positions" pos="9;62"/>
+			<todo name="TODO: finish implementing move animations once" pos="5;96"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack-dev-middleware\lib\Shared.js">
+			<todo name="TODO remove this in next major version" pos="5;16"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack-dev-middleware\node_modules\memory-fs\node_modules\errno\custom.js">
+			<todo name="TODO: the specificity here is stupid, errno should be available everywhere" pos="5;26"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack-dev-middleware\node_modules\memory-fs\node_modules\readable-stream\lib\_stream_readable.js">
+			<todo name="TODO(bmeurer): Change this back to const once hole checks are" pos="1;52"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack-dev-middleware\node_modules\memory-fs\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;276"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack-dev-middleware\node_modules\mime\build\test.js">
+			<todo name="TODO: Uncomment once #157 is resolved" pos="1;45"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\Compilation.js">
+			<todo name="TODO consider Map when performance has improved https://gist.github.com/sokra/234c077e1299b7369461f1708519c392" pos="3;913"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\Dependency.js">
+			<todo name="TODO: remove in webpack 3" pos="2;46"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\SourceMapDevToolPlugin.js">
+			<todo name="TODO: remove in webpack 3" pos="3;23"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\TemplatedPathPlugin.js">
+			<todo name="TODO: remove in webpack 3" pos="1;20"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\optimize\OccurrenceOrderPlugin.js">
+			<todo name="TODO refactor to Map" pos="5;64"/>
+			<todo name="TODO refactor to Map" pos="5;106"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\lib\optimize\RemoveParentModulesPlugin.js">
+			<todo name="TODO consider Map when performance has improved https://gist.github.com/sokra/b36098368da7b8f6792fd7c85fca6311" pos="6;67"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\json5\lib\cli.js">
+			<todo name="TODO More useful functionality, like output path, watch, etc.?" pos="1;6"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\json5\lib\json5.js">
+			<todo name="TODO Identifiers can have Unicode &quot;letters&quot; in them; add support for those." pos="1;103"/>
+			<todo name="TODO this feels special-cased; are there other" pos="25;259"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\memory-fs\node_modules\errno\custom.js">
+			<todo name="TODO: the specificity here is stupid, errno should be available everywhere" pos="5;26"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\memory-fs\node_modules\readable-stream\lib\_stream_readable.js">
+			<todo name="TODO(bmeurer): Change this back to const once hole checks are" pos="1;52"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\memory-fs\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;276"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\mock\tls.js">
+			<todo name="todo" pos="1;0"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\assert\test.js">
+			<todo name="todo fix util.inspect" pos="9;308"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\browserify-zlib\node_modules\pako\dist\pako.js">
+			<todo name="TODO: may be {}" pos="3;3581"/>
+			<todo name="TODO: 2 or 1 bytes?" pos="11;4113"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\browserify-zlib\node_modules\pako\dist\pako_inflate.js">
+			<todo name="TODO: may be {}" pos="3;902"/>
+			<todo name="TODO: 2 or 1 bytes?" pos="11;1434"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\browserify-zlib\node_modules\pako\lib\zlib\inflate.js">
+			<todo name="TODO: may be {}" pos="3;111"/>
+			<todo name="TODO: 2 or 1 bytes?" pos="11;643"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\buffer\index.js">
+			<todo name="TODO: Legacy, not needed anymore. Remove in next major version." pos="1;117"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\example\bundle.js">
+			<todo name="TODO: make this comparison case-insensitive on windows?" pos="3;332"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\browserify-cipher\node_modules\browserify-des\node_modules\des.js\lib\des\cipher.js">
+			<todo name="TODO(indutny): optimize it, this is far from optimal" pos="3;82"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\browserify-sign\node_modules\bn.js\lib\bn.js">
+			<todo name="TODO(indutny): it may be reasonable to omit it for users who don't need" pos="3;1033"/>
+			<todo name="TODO(indutny): implement me" pos="5;1991"/>
+			<todo name="TODO(indutny): implement me" pos="5;2057"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\browserify-sign\node_modules\parse-asn1\node_modules\asn1.js\lib\asn1\base\node.js">
+			<todo name="TODO(indutny): this should be thrown on DSL level" pos="7;547"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\create-ecdh\node_modules\bn.js\lib\bn.js">
+			<todo name="TODO(indutny): it may be reasonable to omit it for users who don't need" pos="3;1033"/>
+			<todo name="TODO(indutny): implement me" pos="5;1991"/>
+			<todo name="TODO(indutny): implement me" pos="5;2057"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\create-hash\node_modules\sha.js\hash.js">
+			<todo name="TODO: handle case where l is &gt; Math.pow(2, 29)" pos="3;56"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\create-hmac\node_modules\sha.js\hash.js">
+			<todo name="TODO: handle case where l is &gt; Math.pow(2, 29)" pos="3;56"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\diffie-hellman\node_modules\bn.js\lib\bn.js">
+			<todo name="TODO(indutny): it may be reasonable to omit it for users who don't need" pos="3;1033"/>
+			<todo name="TODO(indutny): implement me" pos="5;1991"/>
+			<todo name="TODO(indutny): implement me" pos="5;2057"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\pbkdf2\node_modules\sha.js\hash.js">
+			<todo name="TODO: handle case where l is &gt; Math.pow(2, 29)" pos="3;56"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\public-encrypt\node_modules\bn.js\lib\bn.js">
+			<todo name="TODO(indutny): it may be reasonable to omit it for users who don't need" pos="3;1033"/>
+			<todo name="TODO(indutny): implement me" pos="5;1991"/>
+			<todo name="TODO(indutny): implement me" pos="5;2057"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\crypto-browserify\node_modules\public-encrypt\node_modules\parse-asn1\node_modules\asn1.js\lib\asn1\base\node.js">
+			<todo name="TODO(indutny): this should be thrown on DSL level" pos="7;547"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\domain-browser\.eslintrc.js">
+			<todo name="@TODO would be great to enforce the above" pos="3;266"/>
+			<todo name="@TODO decide if this is good or not" pos="3;411"/>
+			<todo name="@TODO maybe [ERROR, 'smart-tabs'] will be better, we will see" pos="3;531"/>
+			<todo name="@TODO figure out how to enforce" pos="3;577"/>
+			<todo name="@TODO revise this" pos="3;634"/>
+			<todo name="@TODO This probably should be an error" pos="3;671"/>
+			<todo name="@TODO check if it actually is more performant)" pos="48;673"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\path-browserify\index.js">
+			<todo name="TODO: make this comparison case-insensitive on windows?" pos="3;195"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\readable-stream\lib\_stream_readable.js">
+			<todo name="TODO(bmeurer): Change this back to const once hole checks are" pos="1;52"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;276"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\stream-http\lib\response.js">
+			<todo name="TODO: this doesn't respect backpressure. Once WritableStream is available, this can be fixed" pos="3;43"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\string_decoder\index.js">
+			<todo name="@TODO Handling all encodings inside a single object makes it very difficult" pos="1;42"/>
+			<todo name="@TODO There should be a utf8-strict encoding that rejects invalid UTF-8 code" pos="1;44"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\node-libs-browser\node_modules\vm-browserify\example\run\bundle.js">
+			<todo name="TODO: make this comparison case-insensitive on windows?" pos="3;328"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\uglify-js\node_modules\uglify-to-browserify\index.js">
+			<todo name="TODO: remove once https://github.com/substack/node-browserify/issues/631 is resolved" pos="3;33"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\watchpack\node_modules\chokidar\node_modules\readdirp\node_modules\minimatch\minimatch.js">
+			<todo name="TODO: It would probably be faster to determine this" pos="11;461"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\watchpack\node_modules\chokidar\node_modules\readdirp\node_modules\readable-stream\lib\_stream_readable.js">
+			<todo name="TODO(bmeurer): Change this back to const once hole checks are" pos="1;52"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\watchpack\node_modules\chokidar\node_modules\readdirp\node_modules\readable-stream\lib\_stream_writable.js">
+			<todo name="TODO: defer error events consistently everywhere, not just the cb" pos="3;276"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\yargs\lib\command.js">
+			<todo name="TODO move positional arg logic to yargs-parser and remove this duplication" pos="3;221"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\martinlabs\node_modules\webpack\node_modules\yargs\lib\validation.js">
+			<todo name="TODO case-insensitive configurability" pos="11;170"/>
+		</todofile>
+	</todoblock>
+</project>
